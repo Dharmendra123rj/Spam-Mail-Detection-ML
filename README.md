@@ -1,6 +1,6 @@
 # Spam Mail Detection using Machine Learning
 
-![Spam Mail](https://github.com/your_username/spam-mail-detection/blob/main/images/spam_image.jpg)
+<!-- ![Spam Mail](https://github.com/your_username/spam-mail-detection/blob/main/images/spam_image.jpg) -->
 
 This repository contains a machine learning project that focuses on detecting spam emails using various features and algorithms. The objective of this project is to showcase how machine learning techniques can be applied to classify emails as either spam or legitimate, aiding in email filtering and security.
 
