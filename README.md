@@ -20,6 +20,14 @@ This repository contains a machine learning project that focuses on detecting sp
 
 Spam emails, also known as unsolicited commercial emails, are a common nuisance and can pose security risks. Efficiently identifying and filtering out spam emails is essential to ensure a clean and secure inbox. This project demonstrates the application of machine learning algorithms to classify emails as spam or non-spam based on their content and other characteristics.
 
+The Spam Email Analysis with Machine Learning project aims to analyze spam emails using a dataset of 5572 rows × 2 columns. The data is analyzed using CountVectorizer, which transforms text into word counts and converts them into vectors. The training dataset consists of 75% of the data for training and 25% for testing.
+
+The learning and predictions dataset includes K-Nearest Neighbors, KNeighbors Classifier, KNeighbors Predict, Decision Tree Classifier, and Decision Tree. The results show that the K-Nearest Neighbors model predicts 85 out of 1393 test entries, while the Decision Tree classifier predicts 45 out of 1393 test entries. The success rate is calculated as 93.89806173725772 with the K-Neighbors model.
+
+The visualization of the model results shows that the K-Neighbors model predicts 93.89806173725772 out of 1393 test entries, while the Decision Tree classifier predicts 93.89806173725772 out of 1393 test entries. The success rate is calculated as 93.89806173725772 with the K-Neighbors model.
+
+The success rate is calculated as 93.89806173725772 with the Decision Tree classifier. The success rate is calculated as 93.89806173725772 with the K-Neighbors model
+
 ## Dataset
 
 The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/your_dataset_link) and consists of a collection of email messages labeled as spam or non-spam. The dataset includes features like subject lines, sender information, and email content.
