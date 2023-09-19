@@ -36,8 +36,8 @@ The dataset used for this project is sourced from [Kaggle](https://www.kaggle.co
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/spam-mail-detection.git
-   cd spam-mail-detection
+   git clone https://github.com/Dharmendra123rj/Spam-Mail-Detection-ML
+   cd Spam-Mail-Detection-ML
    ```
 
 2. Create a virtual environment (optional but recommended):
